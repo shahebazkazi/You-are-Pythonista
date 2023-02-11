@@ -126,7 +126,7 @@
 
 如果你也想加入我们，一起学习Python，和万人一起成为一名Pythonista。
 
-改变生活从改变自己开始。
+改变生活从改变自己开始。123
 
 <div align="center">
     <img width="40%" src="https://raw.githubusercontent.com/MiracleYoung/You-are-Pythonista/master/Static/image/%e4%ba%ba%e4%ba%ba%e9%83%bd%e6%98%afPythonista%e9%82%80%e8%af%b7%e7%a0%81.jpeg" alt="知识星球二维码">
